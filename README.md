@@ -18,3 +18,7 @@ I've developed a visualization with **tableau** that allows the client to track 
 During my master's studies, I developed a project analyzing the performance of the Superstore. In the Overview section, I conducted an analysis on the overall sales trends. In the Performance section, I performed an analysis showcasing the performance of various nations where the Superstore operates, as well as sub-categories of products sold. This enables us to provide valuable insights for both marketing campaigns and decisions regarding budget allocation across different locations or products.
 
 ![Superstore](/img/Superstore_Analysis.png)
+
+## Other projects 
+#### A github repository with some of the projects that i have done during my master's studies with ProfessionAi. 
+[Github repository](https://github.com/Cristian6716/Projects)
