@@ -1,15 +1,17 @@
-# Data Analyst
-#### Master with ProfessionAi
-#### Tehnical skills: Sql, Python, Tableau, Power Bi
+# Data analysis projects
+#### Master in Data Analytics and Data Science, ProfessionAI
+#### Technical skills: SQL, Python, Tableau, Power BI
 
-## Personal Projects
+These are my data projects from 2024. Today I work as a full-stack and AI developer and co-founder of [Pyva](https://pyva.it) and [Klomo](https://klomo.it): see my [GitHub profile](https://github.com/Cristian6716).
 
-### Shopping-Center analysis
+## Projects
+
+### Shopping center analysis
 [Dashboards](https://public.tableau.com/views/Shopping_center_analysis/Salesfocus?:language=it-IT&:sid=&:display_count=n&:origin=viz_share_link)
 
 I've developed a visualization with **tableau** that allows the client to track how the services offered impact product sales. The first page analyzes the impact on sales, the second page analyzes the impact on revenue, while the third provides a summary table.
 
-![Shoppin Center](/img/Shopping_center_Analysis.png)
+![Shopping Center](/img/Shopping_center_Analysis.png)
 
 
 ### Superstore Analysis
@@ -20,5 +22,5 @@ During my master's studies, I developed a project analyzing the performance of t
 ![Superstore](/img/Superstore_Analysis.png)
 
 ## Other projects 
-#### A github repository with some of the projects that i have done during my master's studies with ProfessionAi. 
-[Github repository](https://github.com/Cristian6716/Projects)
+#### A GitHub repository with some of the projects I did during my master's studies with ProfessionAI. 
+[GitHub repository](https://github.com/Cristian6716/Projects)
